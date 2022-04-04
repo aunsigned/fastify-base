@@ -11,5 +11,25 @@
 
 ___
 
+## Get started
+  ```
+  # clone the repository
+  git clone https://github.com/svqzd/fastify-base/
+  
+  # enter the project directory
+  cd fastify-base
+  
+  # install the dependencies
+  yarn install
+  
+  # build the project
+  yarn build
 
+  # start
+  yarn start
+  ```
 
+___
+
+- fastify-base </br>
+[The Unlicense](https://github.com/svqzd/fastify-base/blob/main/LICENSE)
